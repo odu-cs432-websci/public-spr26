@@ -13,7 +13,7 @@ Before starting, review the [HW report guidelines](getting-started/reports.md). 
  
 ### Q1. Get TimeMaps for Each URI.
 
-Obtain the [TimeMaps](http://www.mementoweb.org/guide/quick-intro/) for each of the unique URIs you collected in HW1 using the [MemGator Memento Aggregator](https://github.com/oduwsdl/MemGator).  
+Obtain the [TimeMaps](https://mementoweb.org/guide/quick-intro/) for each of the unique URIs you collected in HW1 using the [MemGator Memento Aggregator](https://github.com/oduwsdl/MemGator).  
 
 *Do **not** use memgator.cs.odu.edu this assignment. You must download and install a local version of MemGator.*
 
